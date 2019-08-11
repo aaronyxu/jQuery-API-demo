@@ -1,0 +1,21 @@
+.demo {
+	width: 400px;
+	height: 300px;
+	border: 10px solid black;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.red {
+	background: red;
+}
+
+
+.circle {
+	border-radius: 50%;
+}
+
+.small {
+	width: 200px;
+	height: 150px;
+}
